@@ -35,7 +35,7 @@ Here's the bash command to recombine them. This assumes 2MB EPROMS, so U5.bin ha
 
 ```bash
 cat u2-rom-1.bin u2-rom-2.bin u2-rom-3.bin u2-rom-4.bin u2-rom-5.bin u2-rom-6.bin u2-rom-7.bin u2-rom-8.bin > U2.bin
-cat u5-rom-1.bin u5-rom-2.bin u5-rom-3.bin u5-rom-4.bin u5-rom-5.bin u5-rom-6.bin u5-rom-7.bin u5-rom-8.bin  > U5-half.bin
+cat u5-rom-1.bin u5-rom-2.bin u5-rom-3.bin u5-rom-4.bin u5-rom-5.bin u5-rom-6.bin u5-rom-7.bin u5-rom-8.bin > U5-half.bin
 cat U5-half.bin U5-half.bin > U5.bin
 ```
 
