@@ -1,8 +1,10 @@
 # Nintendo VS
 
+- [John's Arcade Nintendo Vs. Page](http://johnsarcade.com/nintendo_vs_ppu_info.php)
+
 ## MultiVS ROM Information
 
-https://highscoresave.com/nintendo-multi-vs-lite-multigame-kit/
+[Nintendo Multi VS Lite Multigame Kit](https://highscoresave.com/nintendo-multi-vs-lite-multigame-kit/)
 
 The installation guide has the Windows commands for creating a combined 8-in-1 image:
 
