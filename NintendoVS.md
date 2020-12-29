@@ -1,6 +1,6 @@
 # Nintendo VS
 
-## MultiVS Information
+## MultiVS ROM Information
 
 https://highscoresave.com/nintendo-multi-vs-lite-multigame-kit/
 
@@ -39,7 +39,7 @@ cat u5-rom-1.bin u5-rom-2.bin u5-rom-3.bin u5-rom-4.bin u5-rom-5.bin u5-rom-6.bi
 cat U5-half.bin U5-half.bin > U5.bin
 ```
 
-Here's a longer bash command to split the 8 ROMs from PPU 0004 Standard #2 (Ice Climber, Excitebike, SMB, Pinball, Tetris, Battle City, Skate Kid, Clu Clu Land), naming each one accordingly:
+Here are the bash commands to split the 8 ROMs from PPU 0004 Standard #2 (Ice Climber, Excitebike, SMB, Pinball, Tetris, Battle City, Skate Kid, Clu Clu Land), naming each one accordingly:
 
 ```bash
 #!/bin/bash
@@ -63,7 +63,7 @@ dd if=U5.bin ibs=1 skip=98304 count=16384 of=u5-skate.bin
 dd if=U5.bin ibs=1 skip=114688 count=16384 of=u5-clu.bin
 ```
 
-Here's the bash command to recombine them:
+Here are the bash commands to recombine them (assumes 2MB EPROMS):
 
 ```bash
 cat u2-smb.bin u2-excite.bin u2-tetris.bin u2-skate.bin u2-ice.bin u2-pinball.bin u2-battle.bin u2-clu.bin > U2.bin
