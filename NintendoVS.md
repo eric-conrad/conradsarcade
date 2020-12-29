@@ -2,6 +2,7 @@
 
 - [John's Arcade Nintendo VS. Page](http://johnsarcade.com/nintendo_vs_ppu_info.php)
 - [From Below: the first new Nintendo VS. game in 30+ years](https://mhughson.itch.io/from-below/devlog/206464/vs-system-beta-080)
+- [2600's Hacked Unisystem Roms](https://forums.arcade-museum.com/threads/2600s-hacked-roms-for-the-nintendo-vs-system-and-multivs-pcb.375524/)
 
 ## MultiVS ROM Information
 
