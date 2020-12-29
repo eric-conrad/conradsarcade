@@ -1,6 +1,7 @@
-# Nintendo VS
+# Nintendo VS.
 
-- [John's Arcade Nintendo Vs. Page](http://johnsarcade.com/nintendo_vs_ppu_info.php)
+- [John's Arcade Nintendo VS. Page](http://johnsarcade.com/nintendo_vs_ppu_info.php)
+- [From Below: the first new Nintendo VS. game in 30+ years)[https://mhughson.itch.io/from-below/devlog/206464/vs-system-beta-080]
 
 ## MultiVS ROM Information
 
