@@ -19,5 +19,27 @@ game1.1c + game1.1d game1group1.bin copy /b game1.2a + game1.2b game1group2.bin
 game5group1.bin+ game6group1.bin + game7group1.bin + game8group1.bin U2.bin> The above creates an image for a 2Mb EPROM called “U2.bin”. copy /b game1group2.bin+ game2group2.bin + game3group2.bin + game4group2.bin + game5group2.bin+ game6group2.bin + game7group2.bin + game8group2.bin U5.bin The above creates an image for a 1Mb EPROM called “U5.bin”.
 > - If using a 2Mb EPROM like in the suggested Bill of Materials then you will need to do the following. Copy /b U5.bin + U5.bin U5_doubled.bin This creates an image for a 2Mb EPROM called “U5_doubled.bin”.
 
-Here are the bash commands to split and combined 8 Nintendo Vs. ROMs:
+Here's the bash command to split 8 ROM from PPU 0004 Standard #2 (Ice Climber, Excitebike, SMB, Pinball, Tetris, Battle City, Skate Kid, Clu Clu Land)
+
+```bash
+#!/bin/bash
+  
+dd if=U2.bin ibs=1 skip=0 count=32768 of=u2-ice.bin
+
+dd if=U2.bin ibs=1 skip=32768 count=32768 of=u2-excite.bin
+dd if=U2.bin ibs=1 skip=65536 count=32768 of=u2-smb.bin
+dd if=U2.bin ibs=1 skip=98304 count=32768 of=u2-pinball.bin
+dd if=U2.bin ibs=1 skip=131072 count=32768 of=u2-tetris.bin
+dd if=U2.bin ibs=1 skip=163840 count=32768 of=u2-battle.bin
+dd if=U2.bin ibs=1 skip=196608 count=32768 of=u2-skate.bin
+dd if=U2.bin ibs=1 skip=229376 count=32768 of=u2-clu.bin
+dd if=U5.bin ibs=1 skip=0 count=16384 of=u5-ice.bin
+dd if=U5.bin ibs=1 skip=16384 count=16384 of=u5-excite.bin
+dd if=U5.bin ibs=1 skip=32768 count=16384 of=u5-smb.bin
+dd if=U5.bin ibs=1 skip=49152 count=16384 of=u5-pinball.bin
+dd if=U5.bin ibs=1 skip=65536 count=16384 of=u5-tetris.bin
+dd if=U5.bin ibs=1 skip=81920 count=16384 of=u5-battle.bin
+dd if=U5.bin ibs=1 skip=98304 count=16384 of=u5-skate.bin
+dd if=U5.bin ibs=1 skip=114688 count=16384 of=u5-clu.bin
+```
 
