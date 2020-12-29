@@ -43,3 +43,10 @@ dd if=U5.bin ibs=1 skip=98304 count=16384 of=u5-skate.bin
 dd if=U5.bin ibs=1 skip=114688 count=16384 of=u5-clu.bin
 ```
 
+Here's the bash command to recombine them:
+
+```bash
+cat u2-smb.bin u2-excite.bin u2-tetris.bin u2-skate.bin u2-ice.bin u2-pinball.bin u2-battle.bin u2-clu.bin > U2.bin
+cat u5-smb.bin u5-excite.bin u5-tetris.bin u5-skate.bin u5-ice.bin u5-pinball.bin u5-battle.bin u5-clu.bin > U5-half.bin
+cat U5-half.bin U5-half.bin > U5.bin
+```
