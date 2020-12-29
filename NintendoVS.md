@@ -63,7 +63,7 @@ dd if=U5.bin ibs=1 skip=98304 count=16384 of=u5-skate.bin
 dd if=U5.bin ibs=1 skip=114688 count=16384 of=u5-clu.bin
 ```
 
-Here are the bash commands to recombine them (assumes 2MB EPROMS):
+Here are the bash commands to recombine them and put SMB first (assumes 2MB EPROMS):
 
 ```bash
 cat u2-smb.bin u2-excite.bin u2-tetris.bin u2-skate.bin u2-ice.bin u2-pinball.bin u2-battle.bin u2-clu.bin > U2.bin
