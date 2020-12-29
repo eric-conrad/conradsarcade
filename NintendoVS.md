@@ -21,7 +21,7 @@ game1.1c + game1.1d game1group1.bin copy /b game1.2a + game1.2b game1group2.bin
 game5group1.bin+ game6group1.bin + game7group1.bin + game8group1.bin U2.bin> The above creates an image for a 2Mb EPROM called “U2.bin”. copy /b game1group2.bin+ game2group2.bin + game3group2.bin + game4group2.bin + game5group2.bin+ game6group2.bin + game7group2.bin + game8group2.bin U5.bin The above creates an image for a 1Mb EPROM called “U5.bin”.
 > - If using a 2Mb EPROM like in the suggested Bill of Materials then you will need to do the following. Copy /b U5.bin + U5.bin U5_doubled.bin This creates an image for a 2Mb EPROM called “U5_doubled.bin”.
 
-Here are the bash commands to split 8 sets of ROMs from a MultiVS U2.bin and U5.bin:
+Bash commands to split 8 sets of ROMs from a MultiVS U2.bin and U5.bin:
 
 ```bash
 #!/bin/bash
@@ -33,7 +33,7 @@ do
 done
 ```
 
-Here's the bash command to recombine them. This assumes 2MB EPROMS, so U5.bin has to be doubled:
+Bash command to recombine them. This assumes 2MB EPROMS, so U5.bin has to be doubled:
 
 ```bash
 cat u2-rom-1.bin u2-rom-2.bin u2-rom-3.bin u2-rom-4.bin u2-rom-5.bin u2-rom-6.bin u2-rom-7.bin u2-rom-8.bin > U2.bin
@@ -41,7 +41,7 @@ cat u5-rom-1.bin u5-rom-2.bin u5-rom-3.bin u5-rom-4.bin u5-rom-5.bin u5-rom-6.bi
 cat U5-half.bin U5-half.bin > U5.bin
 ```
 
-Here are the bash commands to split the 8 ROMs from PPU 0004 Standard #2 (Ice Climber, Excitebike, SMB, Pinball, Tetris, Battle City, Skate Kid, Clu Clu Land), naming each one accordingly:
+Bash commands to split the 8 ROMs from PPU 0004 Standard #2 (Ice Climber, Excitebike, SMB, Pinball, Tetris, Battle City, Skate Kid, Clu Clu Land), naming each one accordingly:
 
 ```bash
 #!/bin/bash
@@ -64,8 +64,7 @@ dd if=U5.bin ibs=1 skip=81920 count=16384 of=u5-battle.bin
 dd if=U5.bin ibs=1 skip=98304 count=16384 of=u5-skate.bin
 dd if=U5.bin ibs=1 skip=114688 count=16384 of=u5-clu.bin
 ```
-
-Here are the bash commands to recombine them and put SMB first (assumes 2MB EPROMS):
+Bash commands to recombine them and put SMB first (assumes 2MB EPROMS):
 
 ```bash
 cat u2-smb.bin u2-excite.bin u2-tetris.bin u2-skate.bin u2-ice.bin u2-pinball.bin u2-battle.bin u2-clu.bin > U2.bin
