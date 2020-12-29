@@ -1,0 +1,23 @@
+# Nintendo VS
+
+## MultiVS Information
+
+https://highscoresave.com/nintendo-multi-vs-lite-multigame-kit/
+
+The installation guide has the Windows commands for creating a combined 8-in-1 image:
+
+> - Consider the first half of a VS board. There are 6 EPROM Sockets. The 6 EPROM sockets can be divided into 2 groups. Group 1 = 1A,1B,1C, and
+1D and Group 2 = 2A and 2B.
+> - All the game EPROMs from Group 1 for each game are combined into 1 larger EPROM in spot U2.
+> - All the Game EPROMs for Group 2 for each game are combined into 1 larger EPROM in spot U5.
+> - A simple way to create each game group is to use the command line.
+> - Assuming your games are in the same directory, you would enter this from the command line to create game1's group into a file called game1group1.bin and game1group2.bin copy /b game1.1a + game1.1b +
+game1.1c + game1.1d game1group1.bin copy /b game1.2a + game1.2b game1group2.bin
+> - If a game doesn't contain an eprom in all 6 spots then you must use another EPROM image in it's place when creating the group ERPOM.
+> - For example, VS Mighty Bomb Jack doesn't have a 2a ERPOM so to create a combined group 2 eprom you would type: copy /b 2b.bin + 2b.bin vsmightybombjackgroup2.bin
+> - After you've created groups for each game, you then can create the combined EPROM for U2 and U5. copy /b game1group1.bin + game2group1.bin + game3group1.bin + game4group1.bin +
+game5group1.bin+ game6group1.bin + game7group1.bin + game8group1.bin U2.bin> The above creates an image for a 2Mb EPROM called “U2.bin”. copy /b game1group2.bin+ game2group2.bin + game3group2.bin + game4group2.bin + game5group2.bin+ game6group2.bin + game7group2.bin + game8group2.bin U5.bin The above creates an image for a 1Mb EPROM called “U5.bin”.
+> - If using a 2Mb EPROM like in the suggested Bill of Materials then you will need to do the following. Copy /b U5.bin + U5.bin U5_doubled.bin This creates an image for a 2Mb EPROM called “U5_doubled.bin”.
+
+Here are the bash commands to split and combined 8 Nintendo Vs. ROMs:
+
