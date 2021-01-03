@@ -43,7 +43,7 @@
 
 **<sup>2</sup> - Hacked ROM**
 
-### One-off PPus:
+### One-off PPUs:
 
 - RC2C05-01: Ninja Jajamaru-Kun
 - RC2C05-02: Mighty Bomb Jack
