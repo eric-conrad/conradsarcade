@@ -22,7 +22,7 @@
 ||||Ice Climber|||
 |Mach Rider (Japan)||||||
 |Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>||Mighty Bomb Jack|
-||||||Ninja Jajamaru-Kun||
+|||||Ninja Jajamaru-Kun<sup>2</sup>|Ninja Jajamaru-Kun||
 |Pinball (US)||||||
 |Slalom (needs special controller)|||||
 ||||Skate Kid|||
