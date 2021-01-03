@@ -18,13 +18,14 @@
 |Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>|Excite Bike|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>||
 ||||Excite Bike (Japan)|||
 |From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>||
-|Golf|||||
+|||||Golf (Japan)|
+|Golf (US)|||||
 ||||Ice Climber|||
 |Mach Rider (Japan)||||||
 |Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>||Mighty Bomb Jack|
 |||||Ninja Jajamaru-Kun<sup>2</sup>|Ninja Jajamaru-Kun||
-|Pinball (US)||||||
 |||||Pinball (Japan)|
+|Pinball (US)||||||
 |Slalom (needs special controller)|||||
 ||||Skate Kid|||
 |||Soccer||||
