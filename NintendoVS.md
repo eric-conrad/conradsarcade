@@ -45,11 +45,9 @@
 
 ### One-off PPus:
 
-RC2C05-01: Ninja Jajamaru-Kun
-
-RC2C05-02: Mighty Bomb Jack
-
-RC2C05-03: Gumshoe (Gun)
+- RC2C05-01: Ninja Jajamaru-Kun
+- RC2C05-02: Mighty Bomb Jack
+- RC2C05-03: Gumshoe (Gun)
 
 ## MultiVS ROM Information
 
