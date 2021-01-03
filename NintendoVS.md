@@ -13,16 +13,18 @@
 
 |**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|
 -----------|-----------|-----------|-----------|-------|
-|Battle City (dip switch)|Battle City (dip switch)|Battle City (dip switch)|Battle City (dip switch)||
+|Battle City*|Battle City*|Battle City*|Battle City*||
 ||||Clu Clu Land||
-|From Below (dip switch)|From Below (dip switch)|From Below (dip switch)|From Below (dip switch)|From Below (dip switch)|
+|From Below*|From Below*|From Below*|From Below*|From Below*|
 |Golf||||
 |Mach Rider (Japan)|||||
 |Pinball (US)|||||
 |Slalom (needs special controller)||||
 |||Skate Kid||
 |Super Mario Bros. (hacked ROM)|Super Mario Bros. (hacked ROM)|Super Mario Bros.|Super Mario Bros. (hacked ROM)|
-|Tetris (dip switch)|Tetris (dip switch)|Tetris (dip switch)|Tetris (dip switch)|Tetris (dip switch)|
+|Tetris*|Tetris*|Tetris*|Tetris*|Tetris*|
+
+**<pre>*</pre> - Dip switch setting**
 
 ## MultiVS ROM Information
 
