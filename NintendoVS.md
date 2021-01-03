@@ -16,8 +16,10 @@
 |Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>||
 ||||Clu Clu Land||
 |||Excite Bike|||
+||||Excite Bike (Japan)||
 |From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|
 |Golf||||
+||||Ice Climber||
 |Mach Rider (Japan)|||||
 |Pinball (US)|||||
 |Slalom (needs special controller)||||
