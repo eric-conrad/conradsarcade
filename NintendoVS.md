@@ -36,7 +36,7 @@
 ||||**Skate Kid**|||
 |||**Soccer**||||
 |Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>||
-|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.|Super Mario Bros.<sup>2</sup>||
+|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|**Super Mario Bros.**|Super Mario Bros.<sup>2</sup>||
 |Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>||
 
 **<sup>1</sup> - Dip switch setting**
