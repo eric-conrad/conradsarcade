@@ -11,8 +11,8 @@
 
 ### Unisystem games (no gun, no daughterboard)
 
-|**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|**RC2C05-02**
------------|-----------|-----------|-----------|-------|-------|
+|**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|**RC2C05-01**|**RC2C05-02**|
+|-|-|-|-|-|-|-|
 |Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|||
 ||||Clu Clu Land|||
 |Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>|Excite Bike|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>||
@@ -21,7 +21,8 @@
 |Golf|||||
 ||||Ice Climber|||
 |Mach Rider (Japan)||||||
-|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack|
+|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>||Mighty Bomb Jack|
+||||||Ninja Jajamaru-Kun||
 |Pinball (US)||||||
 |Slalom (needs special controller)|||||
 ||||Skate Kid|||
