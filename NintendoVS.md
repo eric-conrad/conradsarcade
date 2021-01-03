@@ -15,12 +15,14 @@
 -----------|-----------|-----------|-----------|-------|
 |Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>||
 ||||Clu Clu Land||
+|||Excite Bike|||
 |From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|
 |Golf||||
 |Mach Rider (Japan)|||||
 |Pinball (US)|||||
 |Slalom (needs special controller)||||
 |||Skate Kid||
+|||Soccer|||
 |Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.|Super Mario Bros.<sup>2</sup>|
 |Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|
 
