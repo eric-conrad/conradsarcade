@@ -24,7 +24,7 @@
 |Super Mario Bros. (hacked ROM)|Super Mario Bros. (hacked ROM)|Super Mario Bros.|Super Mario Bros. (hacked ROM)|
 |Tetris*|Tetris*|Tetris*|Tetris*|Tetris*|
 
-**/* - Dip switch setting**
+**'*' - Dip switch setting**
 
 ## MultiVS ROM Information
 
