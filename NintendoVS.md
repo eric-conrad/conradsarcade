@@ -19,7 +19,7 @@
 |Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>|**Excite Bike**|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>||
 ||||**Excite Bike (Japan)**|||
 |From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>||
-|||||Golf (Japan)|
+|||||**Golf (Japan)**|
 ||**Golf (US)**||||
 |Gumshoe (Gun)<sup>2</sup>|Gumshoe (Gun)<sup>2</sup>|Gumshoe (Gun)<sup>2</sup>|Gumshoe (Gun)<sup>2</sup>|Gumshoe (Gun)<sup>2</sup>|
 |**Hogan's Alley (Gun)**|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|
