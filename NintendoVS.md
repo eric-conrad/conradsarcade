@@ -13,16 +13,16 @@
 
 |**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|
 -----------|-----------|-----------|-----------|-------|
-|Battle City*|Battle City*|Battle City*|Battle City*||
+|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>||
 ||||Clu Clu Land||
-|From Below*|From Below*|From Below*|From Below*|From Below*|
+|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|
 |Golf||||
 |Mach Rider (Japan)|||||
 |Pinball (US)|||||
 |Slalom (needs special controller)||||
 |||Skate Kid||
-|Super Mario Bros. (hacked ROM)|Super Mario Bros. (hacked ROM)|Super Mario Bros.|Super Mario Bros. (hacked ROM)|
-|Tetris*|Tetris*|Tetris*|Tetris*|Tetris*|
+|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.|Super Mario Bros.<sup>2</sup>|
+|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|
 
 **'*' - Dip switch setting**
 
