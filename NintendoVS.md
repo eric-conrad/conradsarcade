@@ -28,7 +28,7 @@
 |||||Ninja Jajamaru-Kun<sup>2</sup>|Ninja Jajamaru-Kun||
 |||||Pinball (Japan)|
 |Pinball (US)||||||
-|Raid on Bungeling Bay|Raid on Bungeling Bay<sup>3</sup>||||
+||Raid on Bungeling Bay||||
 |Slalom (needs special controller)|||||
 ||||Skate Kid|||
 |||Soccer||||
@@ -37,6 +37,7 @@
 |Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>||
 
 **<sup>1</sup> - Dip switch setting**
+
 **<sup>2</sup> - Hacked ROM**
 
 ## MultiVS ROM Information
