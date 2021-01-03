@@ -14,27 +14,27 @@
 |**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|
 |-|-|-|-|-|
 |Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|
-||||Clu Clu Land|||
-|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)|
-|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>|Excite Bike|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>||
-||||Excite Bike (Japan)|||
+||||**Clu Clu Land**|||
+|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|**Duck Hunt (Gun)**|
+|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>|**Excite Bike**|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>||
+||||**Excite Bike (Japan)**|||
 |From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>||
 |||||Golf (Japan)|
-||Golf (US)||||
+||**Golf (US)**||||
 |Gumshoe (Gun)<sup>2</sup>|Gumshoe (Gun)<sup>2</sup>|Gumshoe (Gun)<sup>2</sup>|Gumshoe (Gun)<sup>2</sup>|Gumshoe (Gun)<sup>2</sup>|
-|Hogan's Alley (Gun)|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|
-||||Ice Climber|||
-||Ladies Golf|||||
-||Mach Rider (Endurance Course)|||||
-|Mach Rider (Japan)||||||
+|**Hogan's Alley (Gun)**|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|
+||||**Ice Climber**|||
+||**Ladies Golf**|||||
+||**Mach Rider (Endurance Course)**|||||
+|**Mach Rider (Japan)**||||||
 |Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|
 |||||Ninja Jajamaru-Kun<sup>2</sup>|
-|||||Pinball (Japan)|
-|Pinball (US)||||||
-||Raid on Bungeling Bay||||
-|Slalom (needs special controller)|||||
-||||Skate Kid|||
-|||Soccer||||
+|||||**Pinball (Japan)**|
+|**Pinball (US)**||||||
+||**Raid on Bungeling Bay**||||
+|**Slalom (needs special controller)**|||||
+||||**Skate Kid**|||
+|||**Soccer**||||
 |Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>||
 |Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.|Super Mario Bros.<sup>2</sup>||
 |Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>||
