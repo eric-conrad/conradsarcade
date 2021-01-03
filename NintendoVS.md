@@ -24,7 +24,8 @@
 |Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.|Super Mario Bros.<sup>2</sup>|
 |Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|
 
-**'*' - Dip switch setting**
+**<sup>1</sup> - Dip switch setting**
+**<sup>2</sup> - Hacked ROM**
 
 ## MultiVS ROM Information
 
