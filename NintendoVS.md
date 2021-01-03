@@ -11,16 +11,18 @@
 
 ### Unisystem games (no gun, no daughterboard)
 
-|**ROM Type**|**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|
-|--------|-----------|-----------|-----------|-----------|-------|
-|**Native PPU**|Mach Rider (Japan)|Mach Rider (Endurance Course)|Excite Bike|Clu Clu Land||
-|**Native PPU**|Pinball (US)|Raid on Bungeling Bay (Japan)|Soccer| Excite Bike (Japan)||
-|**Native PPU**||Slalom (needs special controller)||Ice Climber||
-|**Native PPU**||Golf||Super Mario Bros.||
-|**Native PPU**||||Skate Kid||
-|**Dip switch**|Battle City|Battle City|Battle City|Battle City||
-|**Dip switch**|From Below|From Below|From Below|From Below|From Below|
-|**Dip switch**|Tetris|Tetris|Tetris|Tetris|Tetris|
+|**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|
+-----------|-----------|-----------|-----------|-------|
+|Battle City (dip switch)|Battle City (dip switch)|Battle City (dip switch)|Battle City (dip switch)||
+||||Clu Clu Land||
+|From Below (dip switch)|From Below (dip switch)|From Below (dip switch)|From Below (dip switch)|From Below (dip switch)|
+|Golf||||
+|Mach Rider (Japan)|||||
+|Pinball (US)|||||
+|Slalom (needs special controller)||||
+|||Skate Kid||
+|Super Mario Bros. (hacked ROM)|Super Mario Bros. (hacked ROM)|Super Mario Bros.|Super Mario Bros. (hacked ROM)|
+|Tetris (dip switch)|Tetris (dip switch)|Tetris (dip switch)|Tetris (dip switch)|Tetris (dip switch)|
 
 ## MultiVS ROM Information
 
