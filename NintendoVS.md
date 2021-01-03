@@ -11,23 +11,24 @@
 
 ### Unisystem games (no gun, no daughterboard)
 
-|**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|
------------|-----------|-----------|-----------|-------|
-|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>||
-||||Clu Clu Land||
-|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>|Excite Bike|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>|
-||||Excite Bike (Japan)||
-|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|
-|Golf||||
-||||Ice Climber||
-|Mach Rider (Japan)|||||
-|Pinball (US)|||||
-|Slalom (needs special controller)||||
-||||Skate Kid||
-|||Soccer|||
-|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|
-|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.|Super Mario Bros.<sup>2</sup>|
-|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|
+|**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|**RC2C05-02**
+-----------|-----------|-----------|-----------|-------|-------|
+|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|||
+||||Clu Clu Land|||
+|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>|Excite Bike|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>||
+||||Excite Bike (Japan)|||
+|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>||
+|Golf|||||
+||||Ice Climber|||
+|Mach Rider (Japan)||||||
+|||||||Mighty Bomb Jack|
+|Pinball (US)||||||
+|Slalom (needs special controller)|||||
+||||Skate Kid|||
+|||Soccer||||
+|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>|Star Luster<sup>1</sup>||
+|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.<sup>2</sup>|Super Mario Bros.|Super Mario Bros.<sup>2</sup>||
+|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>|Tetris<sup>1</sup>||
 
 **<sup>1</sup> - Dip switch setting**
 **<sup>2</sup> - Hacked ROM**
