@@ -21,6 +21,7 @@
 |||||Golf (Japan)|
 |Golf (US)|||||
 ||||Ice Climber|||
+||Ladies Golf|||||
 ||Mach Rider (Endurance Course)|||||
 |Mach Rider (Japan)||||||
 |Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>||Mighty Bomb Jack|
