@@ -12,7 +12,7 @@
 ### Unisystem games (no daughterboard)
 
 |**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|**RC2C05-01**|**RC2C05-02**|**RC2C05-03**|
-|-|-|-|-|-|-|-|
+|-|-|-|-|-|-|-|-|
 |Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|||
 ||||Clu Clu Land|||
 |Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)|
