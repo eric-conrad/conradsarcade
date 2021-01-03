@@ -28,6 +28,7 @@
 |||||Ninja Jajamaru-Kun<sup>2</sup>|Ninja Jajamaru-Kun||
 |||||Pinball (Japan)|
 |Pinball (US)||||||
+|Raid on Bungeling Bay|Raid on Bungeling Bay<sup>3</sup>||||
 |Slalom (needs special controller)|||||
 ||||Skate Kid|||
 |||Soccer||||
