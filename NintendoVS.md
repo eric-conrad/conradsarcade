@@ -7,6 +7,21 @@
 - [2600's Hacked VS. Roms](https://forums.arcade-museum.com/threads/2600s-hacked-roms-for-the-nintendo-vs-system-and-multivs-pcb.375524/)
 - [Matt Osborne's VS. Super Mario Brothers high score save/freeplay hack](http://www.scoresaves.com/VsSMBHSFP.html)
 
+## Game/PPU Charts
+
+### Unisystem games (no gun, no daughterboard)
+
+|**ROM Type**|**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|
+|--------|-----------|-----------|-----------|-----------|-------|
+|**Native PPU**|Mach Rider (Japan)|Mach Rider (Endurance Course)|Excite Bike|Clu Clu Land||
+|**Native PPU**|Pinball (US)|Raid on Bungeling Bay (Japan)|Soccer| Excite Bike (Japan)||
+|**Native PPU**||Slalom (needs special controller)||Ice Climber||
+|**Native PPU**||Golf||Super Mario Bros.||
+|**Native PPU**||||Skate Kid||
+|**Dip switch**|Battle City|Battle City|Battle City|Battle City||
+|**Dip switch**|From Below|From Below|From Below|From Below|From Below|
+|**Dip switch**|Tetris|Tetris|Tetris|Tetris|Tetris|
+
 ## MultiVS ROM Information
 
 [Nintendo Multi VS Lite Multigame Kit](https://highscoresave.com/nintendo-multi-vs-lite-multigame-kit/)
