@@ -21,7 +21,7 @@
 |Golf|||||
 ||||Ice Climber|||
 |Mach Rider (Japan)||||||
-|||||||Mighty Bomb Jack|
+||||||Mighty Bomb Jack|
 |Pinball (US)||||||
 |Slalom (needs special controller)|||||
 ||||Skate Kid|||
