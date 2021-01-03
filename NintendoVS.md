@@ -24,6 +24,7 @@
 |Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>|Mighty Bomb Jack<sup>2</sup>||Mighty Bomb Jack|
 |||||Ninja Jajamaru-Kun<sup>2</sup>|Ninja Jajamaru-Kun||
 |Pinball (US)||||||
+|||||Pinball (Japan)|
 |Slalom (needs special controller)|||||
 ||||Skate Kid|||
 |||Soccer||||
