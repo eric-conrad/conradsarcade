@@ -9,7 +9,7 @@
 
 ## Game/PPU Charts
 
-### Unisystem games (no gun, no daughterboard)
+### Unisystem games (no daughterboard)
 
 |**RP2C04-0001**|**RP2C04-0002**|**RP2C04-0003**|**RP2C04-0004**|**RC2C03B**|**RC2C05-01**|**RC2C05-02**|
 |-|-|-|-|-|-|-|
@@ -20,6 +20,7 @@
 |From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>||
 |||||Golf (Japan)|
 ||Golf (US)||||
+|Hogan's Alley (Gun)|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|Hogan's Alley (Gun)<sup>2</sup>|
 ||||Ice Climber|||
 ||Ladies Golf|||||
 ||Mach Rider (Endurance Course)|||||
