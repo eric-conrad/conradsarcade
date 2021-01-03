@@ -19,7 +19,7 @@
 ||||Excite Bike (Japan)|||
 |From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>||
 |||||Golf (Japan)|
-|Golf (US)|||||
+||Golf (US)||||
 ||||Ice Climber|||
 ||Ladies Golf|||||
 ||Mach Rider (Endurance Course)|||||
