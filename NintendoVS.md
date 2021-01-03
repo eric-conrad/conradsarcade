@@ -7,7 +7,7 @@
 - [2600's Hacked VS. Roms](https://forums.arcade-museum.com/threads/2600s-hacked-roms-for-the-nintendo-vs-system-and-multivs-pcb.375524/)
 - [Matt Osborne's VS. Super Mario Brothers high score save/freeplay hack](http://www.scoresaves.com/VsSMBHSFP.html)
 
-## Game/PPU Charts
+## Game/PPU Chart
 
 ### Unisystem games (no daughterboard)
 
@@ -15,6 +15,7 @@
 |-|-|-|-|-|-|-|
 |Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|Battle City<sup>1</sup>|||
 ||||Clu Clu Land|||
+|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)<sup>2</sup>|Duck Hunt (Gun)|
 |Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>|Excite Bike|Excite Bike<sup>2</sup>|Excite Bike<sup>2</sup>||
 ||||Excite Bike (Japan)|||
 |From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>|From Below<sup>1</sup>||
