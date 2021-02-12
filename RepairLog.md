@@ -1,5 +1,8 @@
 # Donkey Kong
 
+**Issue**: [Game scrolls vertically](https://www.dropbox.com/s/v13hrtx50dxtgto/VID_20200905_133224.mp4?dl=0)
+
+**Solution**: Posted the video to the [Arcade Museum Forum](https://forums.arcade-museum.com/threads/donkey-kong-20ez-vertical-scrolling.477274/#post-4211422). Suggested fix was to replace the [VR2 pot](https://www.arcadepartsandrepair.com/store/components/trimmer-potentiometers-pots/50k-ohm-trimmer-potentiometer-for-donkey-kong-others-pcb-p1040/) on the CPU board. Ordered/replaced that pot, which solved the problem,
 
 # Donkey Kong Jr.
 
