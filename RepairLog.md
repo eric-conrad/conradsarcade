@@ -25,6 +25,7 @@ Replaced the [Q4 transistor](https://www.arcadepartsandrepair.com/store/pinball-
 
 Haven't solved the muted stomp sound yet, still working on it.
 
+---
 
 ## Donkey Kong Jr.
 
